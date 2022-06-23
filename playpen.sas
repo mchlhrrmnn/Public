@@ -1,8 +1,9 @@
+* GIT Version anzeigen *;
 %put SYSVLONG = &SYSVLONG;
 
 data _null_;
  version = gitfn_version();
- put version=;             
+ put current version=;             
  
  rc = gitfn_clone("https://github.com/mchlhrrmnn/Public",
    "C:\Temp\helloworldgermhn");
