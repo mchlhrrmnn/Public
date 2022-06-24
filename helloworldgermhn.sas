@@ -1,1 +1,3 @@
-%put helloworldgermhn!;
+%put helloworld,Michael!;
+data;
+run;
