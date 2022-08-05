@@ -1,7 +1,8 @@
 * GIT Version anzeigen *;
 %put SYSVLONG = &SYSVLONG;
 
-data _null_;
+* create for example ;
+data WORK.TEST;
  version = gitfn_version();
  put current version= &version;             
  
