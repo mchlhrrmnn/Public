@@ -1,4 +1,4 @@
 data new;
 set sashelp.air;
-drop ID;
+drop ID ZWEI;
 run;
