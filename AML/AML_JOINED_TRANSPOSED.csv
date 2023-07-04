@@ -1,0 +1,92 @@
+﻿_NAME_;Column1;Column2;Column3;Column4;Column5
+Mandant;GAMMA;GAMMA;GAMMA;GAMMA;GAMMA
+party_number;38154440;38154440;38154440;38154440;38154440
+party_firstname;Hella;Hella;Hella;Hella;Hella
+party_lastname;Döring;Döring;Döring;Döring;Döring
+namezus;;;;;
+address_line_1_text;Hentschelweg 16;Hentschelweg 16;Hentschelweg 16;Hentschelweg 16;Hentschelweg 16
+postal_code;43400;43400;43400;43400;43400
+city_name;Kötzting;Kötzting;Kötzting;Kötzting;Kötzting
+residence_country_code;DE;DE;DE;DE;DE
+cusy;97B;97B;97B;97B;97B
+associate_number;370;370;370;370;370
+occupation_industry_freetext;Ausbaufacharbeiter;Ausbaufacharbeiter;Ausbaufacharbeiter;Ausbaufacharbeiter;Ausbaufacharbeiter
+party_date_of_birth;25.07.1974;25.07.1974;25.07.1974;25.07.1974;25.07.1974
+customer_since_date;03.11.1987;03.11.1987;03.11.1987;03.11.1987;03.11.1987
+citizenship_country_code;DE;DE;DE;DE;DE
+annual_income_amount;5.391,00;5.391,00;5.391,00;5.391,00;5.391,00
+entity_segment_id;;;;;
+bonitaet;;;;;
+party_code;P;P;P;P;P
+shipping_country_code;DE;DE;DE;DE;DE
+bonitaet_dsgv;;;;;
+loesch_kz_pers;;;;;
+g_verb_aufgel;25.07.1974;25.07.1974;25.07.1974;25.07.1974;25.07.1974
+birth_place;GH;GH;GH;GH;GH
+citizenship_2_country_code;GH;GH;GH;GH;GH
+party_middle_name;Hella;Hella;Hella;Hella;Hella
+birth_name;Hella;Hella;Hella;Hella;Hella
+legal_entity_type;;;;;
+cusy_dsgv;97B;97B;97B;97B;97B
+party_identification_id;;;;;
+party_identification_date;;;;;
+party_identification_authority;;;;;
+salutation;;;;;
+steuerlaender;DE;DE;DE;DE;DE
+party_identification_type_desc;;;;;
+last_contact_date;;;;;
+account_type_desc;0;0;0;0;0
+account_number;49889;49889;49889;49889;49889
+account_businessno;46528819479;46528819479;46528819479;46528819479;46528819479
+account_open_date;07.09.2020;07.09.2020;07.09.2020;07.09.2020;07.09.2020
+account_close_date;15.08.2031;15.08.2031;15.08.2031;15.08.2031;15.08.2031
+account_limit;1;1;1;1;1
+account_balance;1;1;1;1;1
+account_sum_cred_run_year;1;1;1;1;1
+account_sum_deb_run_year;1;1;1;1;1
+account_restriction;Y;Y;Y;Y;Y
+account_currency_code;EUR;EUR;EUR;EUR;EUR
+account_iban;DE52948478178966958900;DE52948478178966958900;DE52948478178966958900;DE52948478178966958900;DE52948478178966958900
+account_registration_name;test-name;test-name;test-name;test-name;test-name
+loan_ref_iban;DE52948478178966958900;DE52948478178966958900;DE52948478178966958900;DE52948478178966958900;DE52948478178966958900
+loan_ref_bic;NHAYDE23N8Q;NHAYDE23N8Q;NHAYDE23N8Q;NHAYDE23N8Q;NHAYDE23N8Q
+party_number1;38154440;38154440;38154440;38154440;38154440
+loan_ref_name;test-ref-name;test-ref-name;test-ref-name;test-ref-name;test-ref-name
+booking_date;18.01.2021;18.01.2021;19.01.2021;19.01.2021;20.01.2021
+num_transaction_type;19;6;65;50;51
+prn;12345678;12345678;12345678;12345678;12345678
+currency_amount;1.757,00;-2.225,64;-6.245,05;12.358,25;-2.231,62
+contra_accountno;9589939333;3321277969;8183183433;7949773818;5475962229
+contra_bankcode;65385422;75554888;53420579;68210771;59477721
+contra_iban;DE78653854229589939333;DE67755548883321277969;DE30534205798183183433;DE17682107717949773818;DE60594777215475962229
+contra_bic;JLXADEKF4WQ;HBLXDEGX;VAZZDE0ACCW;RWVPDEULVH7;EGAXDE309AP
+contra_name;Henning Koch II;Juri Röhricht;Riza Mielcarek;Hellmut Preiß;Alfredo Steckel-Reuter
+contra_txtschl;;;;;
+contra_txtschl_erg;;;;;
+value_date;18.01.2021;18.01.2021;19.01.2021;19.01.2021;20.01.2021
+transaction_description1;Vel q;Modi;Imped;Perfe;Cupid
+datatextschl_erg;171;900;511;257;371
+transaction_currency_code;USD;EUR;EUR;EUR;EUR
+currency_amount_in_txn_ccy;1.757,00;-2.225,64;-6.245,05;12.358,25;-2.231,62
+country_code;US;US;US;US;US
+transaction_description2;quas;i des;edit;feren;idita
+transaction_description3;dolo;runt;agni;is re;e qua
+transaction_description4;emque;itae;ed re;udian;pers
+transaction_description5;tenet;rovid;ellen;ae of;iciat
+transaction_description6;r dol;nt iu;us as;iciis;s vit
+transaction_description7;res m;to no;umend;dolor;e.
+datatextschl;32;21;21;28;33
+leistungsart;99438407774;28050096632;60055151015;19694548467;18977103428
+datenherkunft;OS;US;KA;OS;OS
+ultimate_creditor;Henning Koch II;Juri Röhricht;Riza Mielcarek;Hellmut Preiß;Alfredo Steckel-Reuter
+ultimate_debitor;Henning Koch II;Juri Röhricht;Riza Mielcarek;Hellmut Preiß;Alfredo Steckel-Reuter
+transaction_reference_number;;;;;
+empfaengername;Henning Koch II;Juri Röhricht;Riza Mielcarek;Hellmut Preiß;Alfredo Steckel-Reuter
+purpose_code_cat;;;;;
+account_number1;49889;49889;49889;49889;49889
+account_businessno1;46528819479;46528819479;46528819479;46528819479;46528819479
+account_currency_code1;USD;EUR;EUR;EUR;EUR
+account_type_desc1;0;2;P;0;0
+party_number2;38154440;38154440;38154440;38154440;38154440
+account_registration_name1;;;;;
+purpose_code;;;;;
