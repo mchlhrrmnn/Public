@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_helloworldgermhn",
+  "source_file": "helloworldgermhn.sas",
+  "source_blob_sha": "5559dd180be771e8657832a3bea28515d390262f",
+  "source_commit": "c80b945a31fabe5f0e36bd96b3443e5b17c3467c",
+  "notes": "Byte-identical copy of the repo's helloworldgermhn.sas: a %put macro statement followed by an empty DATA step. No edits needed; runs standalone with no external data."
+}

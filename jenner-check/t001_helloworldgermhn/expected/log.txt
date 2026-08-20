@@ -1,0 +1,9 @@
+NOTE: Option OBS changed to 100.
+helloworld,Michael!
+NOTE: DATA WORK.DATA1
+
+
+NOTE: Wrote WORK.DATA1 (0 rows, 0 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds

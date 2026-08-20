@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-08-20T09:48:58Z",
+  "_captured_run_id": "r_c72df575797c4a2ca42bf2b4ac217401",
+  "status": "ok",
+  "exit_code": 1,
+  "log_contains": [
+    "NOTE: DATA new",
+    "WARNING: The variable ID in the DROP, KEEP, or RENAME list has never been referenced.",
+    "WARNING: The variable ZWEI in the DROP, KEEP, or RENAME list has never been referenced.",
+    "NOTE: Read 100 rows from sashelp.air.",
+    "NOTE: Wrote new (100 rows, 2 columns)."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": [
+      "The variable ID in the DROP, KEEP, or RENAME list has never been referenced.",
+      "The variable ZWEI in the DROP, KEEP, or RENAME list has never been referenced."
+    ]
+  }
+}

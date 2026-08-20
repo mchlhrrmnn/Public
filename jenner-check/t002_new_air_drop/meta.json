@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_new_air_drop",
+  "source_file": "new.sas",
+  "source_blob_sha": "51051f5c32858367eeaa29d0d0b37a636b26a182",
+  "source_commit": "c80b945a31fabe5f0e36bd96b3443e5b17c3467c",
+  "notes": "Byte-identical copy of the repo's new.sas: reads sashelp.air (a built-in SAS sample dataset, so no external data needed), drops two variables (ID, ZWEI) that don't exist on the source data. Runs as-is; SAS emits WARNINGs (not ERRORs) for dropping never-referenced variables, which is standard, documented SAS behavior, so the script completes and writes the new dataset unchanged apart from the no-op drop."
+}

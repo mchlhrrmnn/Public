@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-08-20T09:48:58Z",
+  "_captured_run_id": "r_46babd9483b84a319c43db85c469466a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "helloworld,Michael!",
+    "NOTE: DATA WORK.DATA1",
+    "NOTE: Wrote WORK.DATA1 (0 rows, 0 columns)."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
