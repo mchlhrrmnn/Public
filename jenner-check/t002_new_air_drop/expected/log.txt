@@ -1,0 +1,11 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA new
+
+WARNING: The variable ID in the DROP, KEEP, or RENAME list has never been referenced.
+WARNING: The variable ZWEI in the DROP, KEEP, or RENAME list has never been referenced.
+
+NOTE: Read 100 rows from sashelp.air.
+NOTE: Wrote new (100 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
